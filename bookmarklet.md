@@ -13,3 +13,6 @@ javascript:(() => {var r = document.querySelector("[data-pjax='#js-repo-pjax-con
 ## GitHub Markdown/Wiki TOC
 
 https://qiita.com/hokkun_dayo/items/bd3ec64fba293f4aca08
+
+こっちのほうがすき  
+https://github.com/yama-t/code/tree/master/bookmarklet/github-wiki-toc
